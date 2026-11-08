@@ -132,6 +132,12 @@ The public application uses the **Ethereum Sepolia testnet**. Make sure your wal
 
 Sepolia ETH is test currency and has no intended real-world monetary value. This project is intended for learning and experimentation, not production asset issuance.
 
+##Devcon 8
+
+Attending Devcon was a transformative experience and my introduction to the blockchain ecosystem. Networking with passionate builders inspired me to push my limits and explore this field more. I am immensely grateful for the opportunity and committed to demonstrating how impactful it was for my development.
+
+My focus at the convention was on attending seminars such as : Top hacks since Devcon SEA, Glamsterdam Hard Fork, and Beyond GitHub: Building Open Source on Radicle. I am eager to build on this momentum and would ** welcome the opportunity to join upcoming programs and events ** :))
+
 ## License
 
 See [LICENCE](LICENCE) for license information.
